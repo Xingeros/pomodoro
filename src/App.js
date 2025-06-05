@@ -53,7 +53,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Pomodoro Clock</h1>
+      <h1>POMODORO CLOCK</h1>
       <Timer time={formatTime(time)} />
       <Controls
         isRunning={isRunning}
